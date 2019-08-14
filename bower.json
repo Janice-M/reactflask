@@ -1,0 +1,10 @@
+{
+  "name": "reactflask",
+  "homepage": "https://github.com/Janice-M/reactflask",
+  "authors": [
+    "Janice-M <janiceink001@gmail.com>"
+  ],
+  "description": "this is a flask app using react for front end",
+  "main": "reactflask",
+  "license": "MIT"
+}
