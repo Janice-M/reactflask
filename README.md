@@ -1,15 +1,15 @@
 # FLASK_STRUCTURE
 this is a script to every lazy developer or any other that seeks to save time creating the whole flask structure
-
+ps it has  react so be careful
 ## SETUP
 
 ### clone this repository
 
-``` $ git clone https://github.com/boydndonga/FLASK_STRUCTURE.git ```
+``` $ git clone https://github.com/Janice-m/reactflask.git ```
 
 ### make sure you are at its required level
 
-``` $ cd FLASK_STRUCTURE```
+``` $ cd reactflask```
 
 ### make it executable
 
