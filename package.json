@@ -1,0 +1,28 @@
+{
+  "name": "reactflask",
+  "version": "1.0.0",
+  "description": "this is a script to every lazy developer or any other that seeks to save time creating the whole flask structure ps it has  react so be careful ## SETUP",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janice-M/reactflask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Janice-M/reactflask/issues"
+  },
+  "homepage": "https://github.com/Janice-M/reactflask#readme",
+  "devDependencies": {
+    "bower": "^1.8.8"
+  },
+  {
+  "directory": "./project/static/bower_components"
+}
+}
